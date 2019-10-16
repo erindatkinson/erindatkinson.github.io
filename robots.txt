@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://erinatkinson.erebuslost.com/sitemap.xml
