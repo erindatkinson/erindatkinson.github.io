@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>index on Erin Atkinson</title>
-    <link>https://erindatkinson.erebuslost.com/categories/index/</link>
-    <description>Recent content in index on Erin Atkinson</description>
+    <title>Posts on Erin Atkinson</title>
+    <link>https://erindatkinson.erebuslost.com/post/</link>
+    <description>Recent content in Posts on Erin Atkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 16 Oct 2019 11:46:06 -0600</lastBuildDate>
     
-	<atom:link href="https://erindatkinson.erebuslost.com/categories/index/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://erindatkinson.erebuslost.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -40,6 +40,15 @@
       
       <guid>https://erindatkinson.erebuslost.com/post/stub/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>A New Start</title>
+      <link>https://erindatkinson.erebuslost.com/post/start/</link>
+      <pubDate>Wed, 16 Oct 2019 09:39:45 -0600</pubDate>
+      
+      <guid>https://erindatkinson.erebuslost.com/post/start/</guid>
+      <description>&lt;p&gt;🎶 It&amp;rsquo;s a new &lt;del&gt;season&lt;/del&gt; portfolio, though it&amp;rsquo;s still not that long.&lt;/p&gt;</description>
     </item>
     
     <item>
