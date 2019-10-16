@@ -9,14 +9,78 @@
   </url>
   
   <url>
-    <loc>https://erindatkinson.erebuslost.com/</loc>
-    <lastmod>2019-10-16T09:39:45-06:00</lastmod>
+    <loc>https://erindatkinson.erebuslost.com/posts/lib-2020/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://erindatkinson.erebuslost.com/categories/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/categories/index/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/posts/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/categories/reading/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/posts/stub/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/categories/yarn-craft/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/posts/start/</loc>
+    <lastmod>2019-10-16T09:39:45-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/categories/devops/</loc>
+    <lastmod>2019-10-16T09:39:45-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/posts/dev-workshops/</loc>
+    <lastmod>2019-10-16T09:39:45-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
