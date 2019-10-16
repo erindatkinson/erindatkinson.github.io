@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erin Atkinson</title>
-    <link>https://erinatkinson.erebuslost.com/</link>
+    <link>https://erindatkinson.erebuslost.com/</link>
     <description>Recent content on Erin Atkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 16 Oct 2019 09:39:45 -0600</lastBuildDate>
     
-        <atom:link href="https://erinatkinson.erebuslost.com/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://erindatkinson.erebuslost.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://erinatkinson.erebuslost.com/about/</link>
+      <link>https://erindatkinson.erebuslost.com/about/</link>
       <pubDate>Wed, 16 Oct 2019 09:39:45 -0600</pubDate>
       
-      <guid>https://erinatkinson.erebuslost.com/about/</guid>
+      <guid>https://erindatkinson.erebuslost.com/about/</guid>
       
         <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;td&gt;
-            &lt;img src=&#34;https://erinatkinson.erebuslost.com/images/headshot_round_trans.png&#34; alt=&#34;Picture of Erin&#34;/&gt;
+            &lt;img src=&#34;https://erindatkinson.erebuslost.com/images/headshot_round_trans.png&#34; alt=&#34;Picture of Erin&#34;/&gt;
         &lt;/td&gt;
         &lt;td&gt;
             Erin is a Senior Engineer at HashiCorp.
