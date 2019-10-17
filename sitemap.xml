@@ -9,7 +9,7 @@
   </url>
   
   <url>
-    <loc>https://erindatkinson.erebuslost.com/post/lib-2020/</loc>
+    <loc>https://erindatkinson.erebuslost.com/reading/lib-2020/</loc>
     <lastmod>2019-10-16T11:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -23,6 +23,20 @@
   </url>
   
   <url>
+    <loc>https://erindatkinson.erebuslost.com/crafts/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/categories/crafts/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://erindatkinson.erebuslost.com/</loc>
     <lastmod>2019-10-16T11:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,14 +44,7 @@
   </url>
   
   <url>
-    <loc>https://erindatkinson.erebuslost.com/categories/index/</loc>
-    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/post/</loc>
+    <loc>https://erindatkinson.erebuslost.com/categories/post/</loc>
     <lastmod>2019-10-16T11:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -51,14 +58,14 @@
   </url>
   
   <url>
-    <loc>https://erindatkinson.erebuslost.com/post/stub/</loc>
+    <loc>https://erindatkinson.erebuslost.com/reading/</loc>
     <lastmod>2019-10-16T11:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://erindatkinson.erebuslost.com/categories/yarn-craft/</loc>
+    <loc>https://erindatkinson.erebuslost.com/crafts/stub/</loc>
     <lastmod>2019-10-16T11:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -86,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://erindatkinson.erebuslost.com/categories/post/</loc>
+    <loc>https://erindatkinson.erebuslost.com/post/</loc>
     <lastmod>2019-10-16T09:39:45-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
