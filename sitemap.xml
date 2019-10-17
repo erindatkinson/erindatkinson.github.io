@@ -23,6 +23,13 @@
   </url>
   
   <url>
+    <loc>https://erindatkinson.erebuslost.com/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://erindatkinson.erebuslost.com/categories/index/</loc>
     <lastmod>2019-10-16T11:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -79,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://erindatkinson.erebuslost.com/</loc>
+    <loc>https://erindatkinson.erebuslost.com/categories/post/</loc>
     <lastmod>2019-10-16T09:39:45-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
