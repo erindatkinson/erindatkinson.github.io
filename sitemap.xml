@@ -16,6 +16,13 @@
   </url>
   
   <url>
+    <loc>https://erindatkinson.erebuslost.com/gender/stub/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://erindatkinson.erebuslost.com/categories/</loc>
     <lastmod>2019-10-16T11:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -38,6 +45,20 @@
   
   <url>
     <loc>https://erindatkinson.erebuslost.com/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/categories/gender/</loc>
+    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/gender/</loc>
     <lastmod>2019-10-16T11:46:06-06:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
