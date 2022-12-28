@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Erin Atkinson</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Erin Atkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Nov 2019 09:33:49 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://erindatkinson.erebuslost.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,64 +18,41 @@
       
       <guid>https://erindatkinson.erebuslost.com/about/</guid>
       
-        <description>     Erin is a Senior Engineer at HashiCorp.  She likes crocheting, libraries, and dismantling systems that harm people.     If you put away those who report accurately, you’ll keep only those who know what you want to hear. I can think of nothing more poisonous than to rot in the stink of your own reflections.”
-Frank Herbert
- </description>
+        <description>Erin is a Senior Engineer at Reperio Health. She likes crocheting, libraries, and dismantling systems that harm people.      If you put away those who report accurately, you’ll keep only those who know what you want to hear. I can think of nothing more poisonous than to rot in the stink of your own reflections.”
+Frank Herbert</description>
       
     </item>
     
     <item>
-      <title>Readings</title>
-      <link>https://erindatkinson.erebuslost.com/reading/</link>
-      <pubDate>Mon, 11 Nov 2019 09:33:49 -0700</pubDate>
+      <title>2023 Book List</title>
+      <link>https://erindatkinson.erebuslost.com/post/0002-book-list-2023/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://erindatkinson.erebuslost.com/reading/</guid>
+      <guid>https://erindatkinson.erebuslost.com/post/0002-book-list-2023/</guid>
       
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Crafts</title>
-      <link>https://erindatkinson.erebuslost.com/crafts/</link>
-      <pubDate>Wed, 16 Oct 2019 11:46:06 -0600</pubDate>
-      
-      <guid>https://erindatkinson.erebuslost.com/crafts/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Genders</title>
-      <link>https://erindatkinson.erebuslost.com/gender/</link>
-      <pubDate>Wed, 16 Oct 2019 11:46:06 -0600</pubDate>
-      
-      <guid>https://erindatkinson.erebuslost.com/gender/</guid>
-      
-        <description></description>
+        <description>&lt;p&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://erindatkinson.erebuslost.com/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;div class=&#34;box&#34;&gt;
+&lt;figure  itemprop=&#34;associatedMedia&#34;
+  itemscope itemtype=&#34;http://schema.org/ImageObject&#34; &gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://erindatkinson.erebuslost.com/images/coffee-3025022_1920.jpg&#34; alt=&#34;Mug of coffee sitting on an open book held in between hands hidden within sweater sleeves.&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://erindatkinson.erebuslost.com/images/coffee-3025022_1920.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+ In 2022 I bought, was gifted, or found a large number of books, gonna try to read them all!&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>Devops</title>
-      <link>https://erindatkinson.erebuslost.com/devops/</link>
-      <pubDate>Wed, 16 Oct 2019 09:39:45 -0600</pubDate>
+      <title>A New Start</title>
+      <link>https://erindatkinson.erebuslost.com/post/0001-new-start/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://erindatkinson.erebuslost.com/devops/</guid>
+      <guid>https://erindatkinson.erebuslost.com/post/0001-new-start/</guid>
       
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://erindatkinson.erebuslost.com/post/</link>
-      <pubDate>Wed, 16 Oct 2019 09:39:45 -0600</pubDate>
-      
-      <guid>https://erindatkinson.erebuslost.com/post/</guid>
-      
-        <description></description>
+        <description>&lt;p&gt;🎶 It&amp;rsquo;s a new &lt;del&gt;season&lt;/del&gt; portfolio, though it&amp;rsquo;s still not that long.&lt;/p&gt;</description>
       
     </item>
     

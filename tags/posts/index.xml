@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>reading on Erin Atkinson</title>
-    <link>https://erindatkinson.erebuslost.com/categories/reading/</link>
-    <description>Recent content in reading on Erin Atkinson</description>
+    <title>posts on Erin Atkinson</title>
+    <link>https://erindatkinson.erebuslost.com/tags/posts/</link>
+    <description>Recent content in posts on Erin Atkinson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://erindatkinson.erebuslost.com/categories/reading/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://erindatkinson.erebuslost.com/tags/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2023 Book List</title>
       <link>https://erindatkinson.erebuslost.com/post/0002-book-list-2023/</link>
@@ -25,6 +25,15 @@
   &lt;/figure&gt;
 &lt;/div&gt;
  In 2022 I bought, was gifted, or found a large number of books, gonna try to read them all!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A New Start</title>
+      <link>https://erindatkinson.erebuslost.com/post/0001-new-start/</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://erindatkinson.erebuslost.com/post/0001-new-start/</guid>
+      <description>&lt;p&gt;🎶 It&amp;rsquo;s a new &lt;del&gt;season&lt;/del&gt; portfolio, though it&amp;rsquo;s still not that long.&lt;/p&gt;</description>
     </item>
     
   </channel>

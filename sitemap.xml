@@ -9,126 +9,64 @@
   </url>
   
   <url>
-    <loc>https://erindatkinson.erebuslost.com/reading/lib-2020/</loc>
-    <lastmod>2019-11-11T09:33:49-07:00</lastmod>
+    <loc>https://erindatkinson.erebuslost.com/post/0002-book-list-2023/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/post/0001-new-start/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://erindatkinson.erebuslost.com/categories/</loc>
-    <lastmod>2019-11-11T09:33:49-07:00</lastmod>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://erindatkinson.erebuslost.com/</loc>
-    <lastmod>2019-11-11T09:33:49-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/categories/post/</loc>
-    <lastmod>2019-11-11T09:33:49-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/categories/reading/</loc>
-    <lastmod>2019-11-11T09:33:49-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/reading/</loc>
-    <lastmod>2019-11-11T09:33:49-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/gender/stub/</loc>
-    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/crafts/</loc>
-    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/categories/crafts/</loc>
-    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/categories/gender/</loc>
-    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/gender/</loc>
-    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/crafts/stub/</loc>
-    <lastmod>2019-10-16T11:46:06-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/post/start/</loc>
-    <lastmod>2019-10-16T09:39:45-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/devops/</loc>
-    <lastmod>2019-10-16T09:39:45-06:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://erindatkinson.erebuslost.com/categories/devops/</loc>
-    <lastmod>2019-10-16T09:39:45-06:00</lastmod>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://erindatkinson.erebuslost.com/post/</loc>
-    <lastmod>2019-10-16T09:39:45-06:00</lastmod>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://erindatkinson.erebuslost.com/devops/dev-workshops/</loc>
-    <lastmod>2019-10-16T09:39:45-06:00</lastmod>
+    <loc>https://erindatkinson.erebuslost.com/tags/posts/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/tags/reading/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://erindatkinson.erebuslost.com/categories/reading/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://erindatkinson.erebuslost.com/tags/</loc>
+    <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
